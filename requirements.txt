@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+ctransformers
+google-generativeai
+googletrans==4.0.0-rc1
+PyPDF2
+httpcore
